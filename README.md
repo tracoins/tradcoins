@@ -16,6 +16,12 @@ centos7.9/mysql8.0/php8.1/swoole5/redis7
 4. 系统已经可以完美运营，有客户已经收款超过500万U，用户超过1000人
 5. 无需技术团队，本人可以提供运营维护
 
+![image](https://github.com/user-attachments/assets/63c43242-26ff-4d40-9f1d-f7a99a623d13)
+![image](https://github.com/user-attachments/assets/4f45534b-f58c-4008-a724-e37cb31d1d9e)
+![image](https://github.com/user-attachments/assets/7208cafe-2138-44b8-8c40-26f23922fd5d)
+![image](https://github.com/user-attachments/assets/0e97aee3-454d-4c28-b481-f70826bc9595)
+
+
 二、系统其他说明：
 
 1. 系统开发技术架构
