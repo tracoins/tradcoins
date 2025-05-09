@@ -8,7 +8,7 @@
 
 系统运行需要的环境：
 
-ubuntu22/mysql8.0/php8.1/swoole5/redis7
+ubuntu22/centos7.9/mysql8.0/php8.1/swoole5/redis7
 
 其实从运行环境也能看出这套系统非常新，性能也非常好，这套系统不是那种几年前开发、连新的开发版本都无法兼容的老系统能比的。
 
